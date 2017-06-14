@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac420a02-33f4-4ffb-8c03-90a334484517" name="lemo" url="http://107.180.48.250">
+        <fileTransfer host="107.180.48.250" port="21" password="dfe1dfc1df9ddf9bdf93df98df9adf9adf9c" username="gtowncar">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
